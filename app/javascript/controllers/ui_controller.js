@@ -6,6 +6,6 @@ export default class extends Controller {
   }
 
   doit() {
-    console.log('aaasssww')
+    console.log('Someone clicked that button v2')
   }
 }
